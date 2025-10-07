@@ -22,7 +22,7 @@ iii) Recipe 1)
 
      Recipe 2)
      PF1: "Use this text file and convert it into an R3 file"
-     PF2: 
+     PF2: "Use the same file and convert it into a full R3 file."
 
 
                 
