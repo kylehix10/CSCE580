@@ -20,6 +20,7 @@ iii) Recipe 1)
      PF2: "Use the same file and create a full R3 file." 
      PF3: "Using the same file, convert it into a comprehensive R3 file"
      PP-1: "Use the attached file and create an R3 file of only ingredients"
+     PP-2: "Repeat the process but make an R3 file with only the instructions"
 
      Recipe 2)
      PF1: "Use this text file and convert it into an R3 file"
