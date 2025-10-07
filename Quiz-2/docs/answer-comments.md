@@ -1,1 +1,18 @@
+1. AI Translator(ChatGPT) v. Basic Translator (Google Translate).
+   Cloud AI Image Generator(DALL-E) v. Local AI (On-device)
+   AI Writing Assistant v. Basic Text Editor
+   
+   a) In all three comparisons the local AI or processor was greatly more efficient than the cloud-based AI models. When toggling with the AI usage, increasing the batch size made the cloud-based AI more efficient, bringing its Wh per unit to less than .5. Similar results occurred when using cloud-based AI from a data center that was closer to the user.
+   
+  b) Translation: Cloud: 2.9 Wh per query
+                  Google Translate: 0.3 Wh per query
+      Image Generator: Cloud: 2.9 Wh per Image
+                        Local AI: .3 Wh per image
+      Writing Assistant: Cloud: 1.5 Wh per session
+                          Local: .1 Wh per session
+      On average, the GenAI requires 9 times more energy per use than the local options.
 
+
+                
+   
+   
