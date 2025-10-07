@@ -1,0 +1,41 @@
+{
+    "recipe_name": "Spinach Tortellini Soup",
+    "servings": 4,
+    "ingredients": [
+        {
+            "name": "Chicken broth",
+            "quantity": 2,
+            "unit": "14.5-ounce cans"
+        },
+        {
+            "name": "Frozen chopped spinach",
+            "quantity": 1,
+            "unit": "10-ounce package"
+        },
+        {
+            "name": "Cheese tortellini",
+            "quantity": 1,
+            "unit": "9-ounce package"
+        },
+        {
+            "name": "Dried basil",
+            "quantity": 0.25,
+            "unit": "tablespoon"
+        },
+        {
+            "name": "Garlic powder",
+            "quantity": 0.25,
+            "unit": "tablespoon"
+        },
+        {
+            "name": "Salt and pepper",
+            "quantity": "to taste",
+            "unit": ""
+        }
+    ],
+    "instructions": [
+        "Combine chicken broth and spinach in a large pot over high heat; bring to a boil.",
+        "Reduce heat to medium-low and stir in tortellini; cook uncovered, stirring occasionally, until the tortellini float to the top and the filling is hot, about 3 to 5 minutes.",
+        "Season with basil, garlic powder, salt, and pepper."
+    ]
+}
