@@ -13,6 +13,8 @@
       On average, the GenAI requires 9 times more energy per use than the local options.
 2. Cleaned data by removing extraneous details.
 iii) PF1: "Convert the following text file into a full R3 file." Result is in code folder
+     PF2: "Use the same file and create a full R3 file." 
+     PF3: "
 
 
                 
