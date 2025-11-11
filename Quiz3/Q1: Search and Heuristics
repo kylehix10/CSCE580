@@ -1,0 +1,5 @@
+a) Admissible heuristics estimates the cost to reach a goal without overestimating.
+b) h=0 would be admissible because it is not overestimating the true cost h*.
+c) This would only work when k=0 like in b. Other than that is it not admissible.
+d) Min: Admissible because the minimum h will be no larger than the others.
+   Max: Not admissible because h will be greater than the others.
