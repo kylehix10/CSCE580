@@ -1,0 +1,6 @@
+a) Variable: {T, W, O, F, U, R} Domain {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} Given variables
+   Variable: {p1,p2,p3} Domain {0, 1} These will be used when carrying over to another column
+
+   Constraints: F is equal to p3 ...
+                
+b) 
